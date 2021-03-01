@@ -1,0 +1,199 @@
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe.config
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.pdb
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\MySql.Data.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Renci.SshNet.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Buffers.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Memory.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Zstandard.Net.dll
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.pdb
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\MySql.Data.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Renci.SshNet.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Buffers.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Memory.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csprojAssemblyReference.cache
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlteraEstabelecimento.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlterarParticipante.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlterarSala.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AtribuirSalaPart.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroParticipante.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluiEstabelecimentos.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluiParticipante.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluirSala.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorEstabelecimento.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorSalas.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.telainicio.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.Properties.Resources.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroEstabelecimento.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorParticipantes.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroSalas.resources
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.GenerateResource.cache
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.CoreCompileInputs.cache
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.CopyComplete
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.exe
+C:\Users\Brubs\Desktop\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.pdb
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe.config
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.pdb
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\MySql.Data.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Renci.SshNet.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Buffers.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Memory.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Numerics.Vectors.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Zstandard.Net.dll
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.pdb
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\MySql.Data.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Renci.SshNet.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Buffers.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Memory.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Numerics.Vectors.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csprojAssemblyReference.cache
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlteraEstabelecimento.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlterarParticipante.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlterarSala.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AtribuirSalaPart.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroParticipante.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluiEstabelecimentos.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluiParticipante.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluirSala.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorEstabelecimento.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorSalas.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.telainicio.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.Properties.Resources.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroEstabelecimento.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorParticipantes.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroSalas.resources
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.GenerateResource.cache
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.CoreCompileInputs.cache
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.CopyComplete
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.exe
+C:\Users\vilso\OneDrive\Área de Trabalho\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.pdb
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csprojAssemblyReference.cache
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlteraEstabelecimento.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlterarParticipante.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlterarSala.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AtribuirSalaPart.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroParticipante.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluiEstabelecimentos.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluiParticipante.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluirSala.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorEstabelecimento.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorSalas.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.telainicio.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.Properties.Resources.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroEstabelecimento.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorParticipantes.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroSalas.resources
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.GenerateResource.cache
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.CoreCompileInputs.cache
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.exe
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.pdb
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe.config
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.pdb
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\MySql.Data.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Renci.SshNet.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Buffers.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Memory.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Zstandard.Net.dll
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.pdb
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\MySql.Data.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Renci.SshNet.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Buffers.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Memory.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.CopyComplete
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe.manifest
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.application
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.exe.manifest
+C:\Users\Brubs\Pictures\GODEV SENIOR\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.application
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe.config
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe.manifest
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.application
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.exe
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\GerenciadorEvento.pdb
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\MySql.Data.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Renci.SshNet.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Buffers.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Memory.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Zstandard.Net.dll
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.pdb
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Google.Protobuf.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\MySql.Data.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\Renci.SshNet.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Buffers.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Memory.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlteraEstabelecimento.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlterarParticipante.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AlterarSala.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.AtribuirSalaPart.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroParticipante.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluiEstabelecimentos.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluiParticipante.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.ExcluirSala.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorEstabelecimento.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorSalas.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.telainicio.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.Properties.Resources.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroEstabelecimento.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.GerenciadorParticipantes.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.View.CadastroSalas.resources
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.GenerateResource.cache
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.CoreCompileInputs.cache
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.exe.manifest
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.application
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.csproj.CopyComplete
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.exe
+C:\Users\Brubs\Pictures\EVENTO_SYST\GerenciadorEvento-20210222T220845Z-001\GerenciadorEvento\GerenciadorEvento\obj\Release\GerenciadorEvento.pdb

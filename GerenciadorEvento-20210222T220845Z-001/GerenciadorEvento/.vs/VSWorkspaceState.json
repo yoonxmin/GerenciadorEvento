@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GerenciadorEvento",
+    "\\GerenciadorEvento\\ConexaoMySQL",
+    "\\GerenciadorEvento\\View"
+  ],
+  "SelectedNode": "\\GerenciadorEvento\\View\\AlteraEstabelecimento.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
