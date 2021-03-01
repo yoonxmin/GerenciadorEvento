@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GerenciadorEvento-20210222T220845Z-001",
+    "\\GerenciadorEvento-20210222T220845Z-001\\GerenciadorEvento",
+    "\\GerenciadorEvento-20210222T220845Z-001\\GerenciadorEvento\\GerenciadorEvento\\ConexaoMySQL",
+    "\\GerenciadorEvento-20210222T220845Z-001\\GerenciadorEvento\\GerenciadorEvento\\Controller",
+    "\\GerenciadorEvento-20210222T220845Z-001\\GerenciadorEvento\\GerenciadorEvento\\Entidades",
+    "\\GerenciadorEvento-20210222T220845Z-001\\GerenciadorEvento\\GerenciadorEvento\\obj",
+    "\\GerenciadorEvento-20210222T220845Z-001\\GerenciadorEvento\\GerenciadorEvento\\TrataDados",
+    "\\GerenciadorEvento-20210222T220845Z-001\\GerenciadorEvento\\GerenciadorEvento\\View"
+  ],
+  "SelectedNode": "\\GerenciadorEvento-20210222T220845Z-001\\GerenciadorEvento\\GerenciadorEvento.sln",
+  "PreviewInSolutionExplorer": false
+}
